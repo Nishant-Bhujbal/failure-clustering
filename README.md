@@ -1,4 +1,4 @@
-# Failure Clustering for CI RUns
+# Failure Clustering for CI Runs
 
 A small, standalone Python CLI that groups failed Playwright tests from sharded CI runs
 by likely root cause, instead of leaving you to triage each failure one by one.
